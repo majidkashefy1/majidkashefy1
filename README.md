@@ -25,6 +25,11 @@ I focus on clean architecture, maintainable code, and creating a seamless user e
 **DevOps & Tools:** Git, Docker, MinIO, AWS, Sentry, Mockery, PHPUnit  
 
 ---
+![Majid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=majidkashefy1&theme=react-dark)
+
+<!--updated: 2025-10-24 17:00:00 -->
+
+---
 
 ### 🛠️ Projects I’m Proud Of
 Here are some of my favorite repositories — showcasing my experience in both backend and frontend development.
