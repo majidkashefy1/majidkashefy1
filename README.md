@@ -13,7 +13,7 @@ I love solving complex problems and crafting solutions that blend technical exce
 - **Dev Tools:** Git, Docker, Sentry, Mockery  
 
 ---
-
+![Majid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=majidkashefy1&theme=react-dark)
 ### 🧩 What I’m Working On
 - Enhancing **Laravel + Vue.js** integration for high-performance apps  
 - Writing tutorials and blog posts on [my dev blog](https://blog.kashefimajiddev.com)  
