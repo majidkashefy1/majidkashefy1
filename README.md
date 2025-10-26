@@ -57,6 +57,7 @@ Here are some of my favorite repositories — showcasing my experience in both b
 
 ---
 
+
 ### ⚙️ Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=majidkashefy1&theme=react-dark" alt="Majid's Activity Graph" />
