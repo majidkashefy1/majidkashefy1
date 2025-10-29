@@ -6,7 +6,6 @@
   <a href="https://kashefimajiddev.com">🌐 Website</a> |
   <a href="https://blog.kashefimajiddev.com">📝 Blog</a> |
   <a href="https://www.linkedin.com/in/kashefymajid">💼 LinkedIn</a> |
-  <a href="https://twitter.com/majidkashefy1">🐦 Twitter</a>
 </p>
 
 ---
