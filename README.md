@@ -44,8 +44,6 @@ Here are some of my favorite repositories — showcasing my experience in both b
 - [Understanding SOLID Principles](https://blog.kashefimajiddev.com/solid-principles.html)
 <!-- BLOG-POST-LIST:END -->
 
-📘 *You can automate this section using a GitHub Action — I’ll show you how below.*
-
 ---
 
 ### 📊 GitHub Stats
