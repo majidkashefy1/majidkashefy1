@@ -79,5 +79,3 @@ When I’m not coding, I enjoy exploring UI/UX design principles, learning about
 
 **📫 Reach me at:**  
 `kashefymajid1992@gmail.com`
-
-⭐ *If you like my work, consider giving a star to some of my repositories!*
